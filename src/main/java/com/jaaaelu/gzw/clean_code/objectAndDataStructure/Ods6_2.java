@@ -1,4 +1,4 @@
-package com.jaaaelu.gzw.clean_code.ObjectAndDataStructure;
+package com.jaaaelu.gzw.clean_code.objectAndDataStructure;
 
 public class Ods6_2 {
     //  6.2 数据、对象的反对称性

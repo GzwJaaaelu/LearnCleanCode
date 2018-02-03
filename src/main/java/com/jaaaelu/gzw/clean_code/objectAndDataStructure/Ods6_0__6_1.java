@@ -1,4 +1,4 @@
-package com.jaaaelu.gzw.clean_code.ObjectAndDataStructure;
+package com.jaaaelu.gzw.clean_code.objectAndDataStructure;
 
 public class Ods6_0__6_1 {
     //  6.0 对象与数据结构

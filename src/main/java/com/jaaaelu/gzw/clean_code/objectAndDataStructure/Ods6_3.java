@@ -1,4 +1,4 @@
-package com.jaaaelu.gzw.clean_code.ObjectAndDataStructure;
+package com.jaaaelu.gzw.clean_code.objectAndDataStructure;
 
 public class Ods6_3 {
     //  6.3 德墨忒尔定律
