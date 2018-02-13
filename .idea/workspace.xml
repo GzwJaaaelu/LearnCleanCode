@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87cdb58c-ec05-4454-98dc-c714b37c31b4" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/iteration/I12_1__12_7.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_1__11_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_3__11_11.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_0__13_2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_4__13_5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_6__13_8.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_9__13_10.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/Class/C10_3.java" afterPath="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/Class/C10_3.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -37,32 +38,57 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="S11_1__11_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_1__11_2.java">
+      <file leaf-file-name="C13_0__13_2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_0__13_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="941">
-              <caret line="61" column="6" lean-forward="false" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+            <state relative-caret-position="1007">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding>
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C13_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="I12_1__12_7.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/iteration/I12_1__12_7.java">
+      <file leaf-file-name="C13_4__13_5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_4__13_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            <state relative-caret-position="874">
+              <caret line="46" column="15" lean-forward="true" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="S11_3__11_11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_3__11_11.java">
+      <file leaf-file-name="C13_6__13_8.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_6__13_8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="456">
+              <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C13_9__13_10.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_9__13_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="122" column="35" lean-forward="false" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -341,11 +367,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/MeaningfulName/Mn2_5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/CleanCode/Summary" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/MeaningfulName/Mn2_6.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/MeaningfulName/Mn2_7.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/MeaningfulName/Mn2_7__2_15.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/MeaningfulName/Mn2_16.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/MeaningfulName/Mn2_17__2_18.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/meaningfulName/Mn2_17__2_18.java" />
@@ -392,6 +413,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_3_11_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_3__11_11.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/iteration/I12_1__12_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_0__13_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_4__13_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_6__13_8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_9__13_10.java" />
       </list>
     </option>
   </component>
@@ -423,7 +449,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -464,15 +489,16 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="clean_code" type="462c0819:PsiDirectoryNode" />
-              <item name="system" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -482,18 +508,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jaaaelu.gzw.clean_code.fun" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LearnKotlin\CleanCode\src\main\java\com\jaaaelu\gzw\clean_code" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jaaaelu.gzw.clean_code.concurrent" />
       <recent name="com.jaaaelu.gzw.clean_code.ObjectAndDataStructure" />
       <recent name="com.jaaaelu.gzw.clean_code.format" />
       <recent name="com.jaaaelu.gzw.clean_code.comments" />
       <recent name="com.jaaaelu.gzw.clean_code.fun" />
-      <recent name="com.jaaaelu.gzw.clean_code.MeaningfulName" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\LearnKotlin\CleanCode\src\main\java\com\jaaaelu\gzw\clean_code" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jaaaelu.gzw.clean_code.fun" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -669,11 +695,19 @@
       <workItem from="1517627976169" duration="6617000" />
       <workItem from="1517815075430" duration="7584000" />
       <workItem from="1517899702042" duration="5563000" />
+      <workItem from="1517908909117" duration="7514000" />
+      <workItem from="1517969150892" duration="2785000" />
+      <workItem from="1518055225909" duration="2960000" />
+      <workItem from="1518073643602" duration="1271000" />
+      <workItem from="1518089351147" duration="3487000" />
+      <workItem from="1518337184642" duration="1834000" />
+      <workItem from="1518401942890" duration="8714000" />
+      <workItem from="1518426466875" duration="14982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172945000" />
+    <option name="totallyTimeSpent" value="216492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -691,7 +725,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3683834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21244635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -725,35 +759,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/ChapterTwo/Summary" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/cleanCode/Summary">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/meaningfulName/Mn2_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="37" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/meaningfulName/Mn2_7__2_15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="66" column="42" lean-forward="false" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/meaningfulName/Mn2_16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/meaningfulName/Mn2_17__2_18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -982,13 +987,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/comments/C4_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4351">
-          <caret line="242" column="0" lean-forward="false" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/comments/C4_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1311">
@@ -1027,25 +1025,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_3__11_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="627">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/system/S11_1__11_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="941">
+        <state relative-caret-position="1159">
           <caret line="61" column="6" lean-forward="false" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/iteration/I12_1__12_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="855">
+          <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_0__13_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding>
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/comments/C4_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1282">
+          <caret line="143" column="49" lean-forward="true" selection-start-line="143" selection-start-column="49" selection-end-line="143" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_4__13_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="15" lean-forward="true" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_6__13_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jaaaelu/gzw/clean_code/concurrent/C13_9__13_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="122" column="35" lean-forward="false" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
